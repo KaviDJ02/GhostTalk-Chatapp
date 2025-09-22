@@ -4,8 +4,8 @@ GhostTalk is a real-time chat application built with Java Spring Boot (backend) 
 
 ## Screenshots
 
-![Home Page](images/home 3.png)
-![Home Page](images/home 2.png)
+![Home Page](images/home3.png)
+![Home Page](images/home2.png)
 ![Home Page](images/home.png)
 ![Chat Page](images/chat.png)
 ![Chat Page](images/moods.png)
