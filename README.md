@@ -36,7 +36,7 @@ GhostTalk is a real-time chat application built with Java Spring Boot (backend) 
 
 ## Demo Video
 
-Watch the demo: [GhostTalk Demo Video](https://www.youtube.com/watch?v=YOUR_DEMO_VIDEO_ID)
+Watch the demo: [GhostTalk Demo Video](https://youtu.be/yysy2yJasWc)
 
 ## Repositories
 
